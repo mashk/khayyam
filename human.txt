@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dariush Abbasi  -- Web Developer -- @dariubs
+    Sajad Shokri  -- Android Developer  -- @sajadshokri
+    Mahdi Piani -- Designer -- @riuniz
+
+# THANKS
+
+    
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Angular.js, Normalize.css

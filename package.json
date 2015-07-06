@@ -1,0 +1,23 @@
+{
+  "name": "khayyam",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashk/khayyam.git"
+  },
+  "author": "Dariush Abbasi < poshtehani@gmail.com >",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mashk/khayyam/issues"
+  },
+  "homepage": "https://github.com/mashk/khayyam#readme",
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "gulp": "^3.9.0"
+  }
+}

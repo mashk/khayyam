@@ -1,0 +1,14 @@
+{
+  "name": "khayyam",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mashk/khayyam",
+  "authors": [
+    "dariush abbasi <dariushem@yahoo.com>"
+  ],
+  "main": "index.html",
+  "license": "GPL-3",
+  "dependencies": {
+    "angular": "~1.4.1",
+    "normalize.css": "~3.0.3"
+  }
+}
